@@ -12,10 +12,16 @@
 
 ## 📚 My GitBook Projects
 
-| Project | Description |
-|---------|-------------|
+### 🦀 [SICP Rust](https://x5zone.gitbook.io/sicp-rust/)
+Solving SICP (Structure and Interpretation of Computer Programs) exercises with Rust.
 
+### 📝 [Tech Notes](https://x5zone.gitbook.io/tech-notes/)
+Random technical snippets that don't fit anywhere else.
 ---
+
+## Goodbye
+
+I've decided to switch from GitBook to VitePress. This project is no longer maintained.
 
 ## 🔗 Links
 
