@@ -22,6 +22,8 @@ https://x5zone.gitbook.io/tech-notes/
 
 
 GitBook automatically appends "index" to URLs, causing 404 errors. I couldn't figure out how to fix it, so I'm abandoning GitBook.
+
+Moved to https://x5zone.github.io/
 ---
 
 ## Goodbye
